@@ -2,6 +2,9 @@
 
 We are using [this repo's Issues](https://github.com/openscapes/teaching-learning-resources/issues) to point to specific tools or learning resources for open, reproducible, inclusive science.
 
+<br>
+<br>
+
 ## Teaching and learning resources from the Openscapes community
 
 
