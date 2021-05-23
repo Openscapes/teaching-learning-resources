@@ -5,7 +5,6 @@ We are using this repo's [Issues](https://github.com/openscapes/teaching-learnin
 Also, see our public [Openscapes Zotero library](https://www.zotero.org/groups/4118402/openscapes/library)
 
 <br>
-<br>
 
 ## Teaching and learning resources from the Openscapes community
 
