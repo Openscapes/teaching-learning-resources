@@ -1,4 +1,8 @@
-# Teaching and learning resources from the Openscapes community
+# Learning with/from/for the Openscapes Community
+
+We are using [this repo's Issues](https://github.com/openscapes/teaching-learning-resources/issues) to point to specific tools or learning resources for open, reproducible, inclusive science.
+
+## Teaching and learning resources from the Openscapes community
 
 
 - [R/Stats illustrations](https://github.com/allisonhorst/stats-illustrations) — Allison Horst, UCSB
