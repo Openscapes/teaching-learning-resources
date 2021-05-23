@@ -1,6 +1,8 @@
 # Learning with/from/for the Openscapes Community
 
-We are using [this repo's Issues](https://github.com/openscapes/teaching-learning-resources/issues) to point to specific tools or learning resources for open, reproducible, inclusive science.
+We are using this repo's [Issues](https://github.com/openscapes/teaching-learning-resources/issues) to point to specific tools or learning resources for open, reproducible, inclusive science.
+
+Also, see our public [Openscapes Zotero library](https://www.zotero.org/groups/4118402/openscapes/library)
 
 <br>
 <br>
